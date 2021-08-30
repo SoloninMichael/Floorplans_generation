@@ -16,9 +16,9 @@ The data was taken from [https://github.com/art-programmer/FloorplanTransformati
 
 In total, we have access to around 100,000 floorplans.
 #### Example of raw data
-<img src="./img/pres_1.png" width="300" />
+<img src="./img/pres_1.png" width="300" /></br>
 #### Visualization
-<img src="./img/pres_2.png" width="300" />
+<img src="./img/pres_2.png" width="300" /></br>
 
 ## Data :: General technique for obtaining a hidden representation
 <img src="./img/pres_7.png" width="300" />
